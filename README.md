@@ -1,6 +1,6 @@
 # Fruit Ripeness Classifier
 
-A deep learning project to classify fruits(Apple, Orange and Banana) based on their ripeness stages: **Unripe, Fresh, and Rotten**. Built using **TensorFlow** and trained on a custom Kaggle dataset.
+A deep learning project to classify 3 fruits(Apple, Orange and Banana) based on their 3 ripeness stages: **Unripe, Fresh, and Rotten**. Built using **TensorFlow** and trained on a custom Kaggle dataset.
 
 ---
 
